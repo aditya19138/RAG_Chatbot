@@ -1,0 +1,10 @@
+flask
+requests
+openai
+pinecone-client
+flask-cors
+python-dotenv
+gunicorn
+sseclient-py
+langchain
+PyPDF2
