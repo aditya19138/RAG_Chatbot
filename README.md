@@ -3,10 +3,15 @@
 <img width="870" alt="ss2" src="https://github.com/aditya19138/RAG_Chatbot/assets/74404047/5e7a0fde-f125-4af8-a37c-0dc5ff9f2d1f">
 <img width="960" alt="ss1" src="https://github.com/aditya19138/RAG_Chatbot/assets/74404047/2524fe60-341e-4d05-a131-958807324565">
 
+https://github.com/aditya19138/RAG_Chatbot/assets/74404047/b59b0df7-e06f-47e8-867e-8f80a7a92c65
+
+
+
 This is an application built for the retrieval-augmented generation for document understanding and question answering, integrated within a web applications. It allows a user to input the PDF file and ask questions about the content of that PDF. It demonstrates the use of Retrieval Augmented Generation, OpenAI, and vector databases.
 
 ## Architecture
 <img width="581" alt="image" src="https://github.com/aditya19138/RAG_Chatbot/assets/74404047/056871d7-c49b-468d-95b3-151a634ddcf1">
+
 ## Setup
 
 **Install Python dependencies**
